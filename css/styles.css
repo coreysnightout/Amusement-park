@@ -2,10 +2,6 @@
   text-align: center;
 }
 
-#over5 {
-  display: none;
-}
-
-#under5 {
-  display: none;
+ul {
+  list-style-type: none;
 }
